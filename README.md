@@ -1,5 +1,7 @@
 # dw1z4rd.github.io
 
-> "Do not taunt happy fun ball."
+## This is a subtitle or something.
 
-When people tell me what to do, I do the opposite. That's why I now drink my food through a straw.
+- Bullet point #1.
+- Bullet point #2.
+
